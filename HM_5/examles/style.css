@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.wrapper > div {
+    display: flex;
+    flex-direction: column;
+}
+.usd {
+    margin-top: 50px;
+}
+.euro {
+    margin-top: 50px;
+}
+input {
+    padding: 10px 20px;
+}
+label {
+    font-size: 20px;
+}
